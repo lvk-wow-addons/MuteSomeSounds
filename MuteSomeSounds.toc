@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: MuteSomeSounds
+## Notes: Mute some sounds I don't like
+## Author: Lasse Vågsæther Karlsen
+## Version: 11.0.2
+## DefaultState: Enabled
+## RequiredDeps: LVK
+MuteSomeSounds.lua
